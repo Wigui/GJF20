@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\LD\cascade\GIF Animation.cs" />
     <Compile Include="Assets\Menu\GameController.cs" />
     <Compile Include="Assets\Menu\GameManager.cs" />
     <Compile Include="Assets\Menu\Introduction\IntroductionManager.cs" />
