@@ -64,6 +64,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\LD\cascade\GIF Animation.cs" />
+    <Compile Include="Assets\LD\Scripts\InventoryComponent.cs" />
+    <Compile Include="Assets\LD\Scripts\SwitchAreaComponent.cs" />
+    <Compile Include="Assets\LD\Scripts\TriggerComponent.cs" />
     <Compile Include="Assets\Menu\GameController.cs" />
     <Compile Include="Assets\Menu\GameManager.cs" />
     <Compile Include="Assets\Menu\Introduction\IntroductionManager.cs" />
