@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Scene 2D test 1.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
